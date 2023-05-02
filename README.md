@@ -9,6 +9,7 @@ Pour réaliser notre projet nous avons suivi le plan suivant.
 ## Scénario 
 Pour construire notre scénario pour Quest For Glory, nous avons demandé à **ChatGPT** de nous proposer des idées pour un jeu textuel d'aventure. Nous avons employé le prompt suivant :
 > *Propose une histoire de jeu d'aventure textuel.*
+
 A la suite de la proposition de **ChatGPT** nous avons écrit le script dans un document texte sur visual studio code. Chaque type de phrase est associé à un sybole : 
 - le "=" correspond à des phrases du narrateur
 - le "+" correspond à du dialogue

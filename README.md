@@ -15,3 +15,8 @@ A la suite de la proposition de **ChatGPT** nous avons écrit le script dans un 
 - le "+" correspond à du dialogue
 - le "#" correspond aux différentes scènes
 - le "?" correspond à un choix à faire pour le joueur
+
+Pour ce qui est du titre du jeu nous avons demandé à **ChatGPT** de nous proposer différents titres avec le prompt  : 
+> *Propose des titres qui correspondent au jeu.*
+
+Et nous avons ainsi choisi **Quest For Glory**.

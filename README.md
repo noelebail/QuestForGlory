@@ -38,5 +38,10 @@ Afin de créer un univers singulier à notre jeu nous avons généré dess image
 ![OIG (2)](https://user-images.githubusercontent.com/99325966/236393668-c4ff61ca-c632-4192-b72c-2f524da39ac7.jpg)
 ![OIG 1HRiCckgy8kwCBit](https://user-images.githubusercontent.com/99325966/236393949-1c5285f2-e89e-4703-84d7-b9d2f09928b2.jpg)
 ![OIG (1)](https://user-images.githubusercontent.com/99325966/236392939-d8c90d15-9f09-4465-9d05-368909d36b93.jpg)
+![5276a4ec3e17e8dc0c89-xl](https://github.com/noelebail/QuestForGlory/assets/99325966/dada30a3-71ba-4601-aaf8-3cb9d0f96f80)
+
+Après une concertation avec les différents membres de l'équipe nous avons constaté une meilleure qualité dans le style *jeu vidéo*, pour **DALL-E**. Pour pouvoir créer une identité propre à notre jeu nous avons chercher des images dans un style cohérent. 
+
+
 
 

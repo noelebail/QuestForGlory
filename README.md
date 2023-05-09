@@ -40,7 +40,9 @@ Afin de créer un univers singulier à notre jeu nous avons généré dess image
 ![OIG (1)](https://user-images.githubusercontent.com/99325966/236392939-d8c90d15-9f09-4465-9d05-368909d36b93.jpg)
 ![5276a4ec3e17e8dc0c89-xl](https://github.com/noelebail/QuestForGlory/assets/99325966/dada30a3-71ba-4601-aaf8-3cb9d0f96f80)
 
-Après une concertation avec les différents membres de l'équipe nous avons constaté une meilleure qualité dans le style *jeu vidéo*, pour **DALL-E**. Pour pouvoir créer une identité propre à notre jeu nous avons chercher des images dans un style cohérent. 
+Après une concertation avec les différents membres de l'équipe nous avons constaté une meilleure qualité dans le style *jeu vidéo*, pour **DALL-E**. Pour pouvoir créer une identité propre à notre jeu nous avons chercher des images dans un style cohérent. Nous avons donc selectionné le style GC Society Landscape qui correspond bien à l'univers que nous avons voulu donner à  **Quest For Glory**. 
+
+> **Trame des images du script**
 
 
 

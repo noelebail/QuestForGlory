@@ -1,7 +1,7 @@
 # QuestForGlory
 Game creation report for QuestForGlory.
 
-[<kbd> <br> Download <br> </kbd>]()
+[<kbd> <br> Download <br> </kbd>](https://github.com/noelebail/QuestForGlory/releases/latest)
 
 ## Le plan du projet
 Pour réaliser notre projet nous avons suivi le plan suivant.

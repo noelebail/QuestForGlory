@@ -132,3 +132,7 @@ Avec ce jeu on nous avons voulu proposer une histoire originale avec de simples 
 
 ![logor](https://github.com/noelebail/QuestForGlory/assets/99325966/c886b0d3-6c65-4c9e-ac7f-590a72d3f68d)
 H2AN Corporation
+
+- Nous contacter
+
+Mail: *questforglory@h2an.com*
